@@ -1,0 +1,9 @@
+{"_id":{"$oid":"5bf2c3617919da25bca720dc"},"quota":"普通本专科","enrollment":7378495,"students":26252968,"graduate":6808866}
+{"_id":{"$oid":"5bf2c3617919da25bca720dd"},"quota":"专科","enrollment":3484311,"students":10486120,"graduate":3222926}
+{"_id":{"$oid":"5bf2c3617919da25bca720de"},"quota":"普通高中","enrollment":7966066,"students":23743992,"graduate":7976535}
+{"_id":{"$oid":"5bf2c3617919da25bca720df"},"quota":"中等职业教育","enrollment":6012490,"students":16567024,"graduate":5678833}
+{"_id":{"$oid":"5bf2c3617919da25bca720e0"},"quota":"初中","enrollment":14110242,"students":43119500,"graduate":14175941}
+{"_id":{"$oid":"5bf2c3617919da25bca720e1"},"quota":"职业初中","enrollment":1773,"students":5081,"graduate":2024}
+{"_id":{"$oid":"5bf2c3617919da25bca720e2"},"quota":"普通小学","enrollment":17290429,"students":96921831,"graduate":14372517}
+{"_id":{"$oid":"5bf2c3617919da25bca720e3"},"quota":"特殊教育","enrollment":83314,"students":442223,"graduate":52899}
+{"_id":{"$oid":"5bf2c3617919da25bca720e4"},"quota":"学前教育","enrollment":20088467,"students":42648284,"graduate":15902605}
